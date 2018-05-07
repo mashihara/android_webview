@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Webview Movie Sample</title>
+      <!-- BootstrapのCSS読み込み -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+      <!-- ローカルCSS読み込み -->
+      <link href="css/video.css" rel="stylesheet">
+      <!-- jQuery読み込み -->
+      <script src="js/jquery-3.3.1.min.js"></script>
+      <!-- BootstrapのJS読み込み -->
+      <script src="js/bootstrap.min.js"></script>
+  </head>
+  <body>
+  <div class="container">
+      <div class="row">
+          <video controls autoplay>
+              <source src="https://s3-ap-northeast-1.amazonaws.com/ntteata.robohon.movie.hls/video/20000.m3u8">
+          </video>
+      </div>
+      <div class="row" >
+          <div id="video_button">
+              <button type="button" class="btn btn-primary" onclick="NativeController.onBackPress()">戻る</button>
+          </div>
+      </div>
+  </div>
+  </body>
+</html>
