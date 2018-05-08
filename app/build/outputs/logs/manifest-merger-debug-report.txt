@@ -1,109 +1,113 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c04cfaf1fbc9680908ff5d98a1e71d0f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fb972c82e5ad7dda2c5667b51f0cecb\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\32fd63934cb54339d73c989b4abd0d56\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\38e39d5a01b55597748c50fdbafc759a\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3e3194d7d8e7290cd402b8561a970a0f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\fb0bfc95e2487230c95781c236260465\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\86b827027557867ad2c8ba1d3c96e522\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\b403f4db4d21e7ddc5c11fb3417b4f04\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\44bba2375681ee4291ad5b26d2a46bb3\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e7a616b0b2595c35a271d37ddd853f2c\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\112add859134e07a8d341949208814ab\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5e057a689d63c6e92371b230c680188\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/445381c2609f42d1b1f3440a84fe41e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/10b7d459591767f8db4f6b477bffc837/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/a2a6a7cd9f00b049ef1bffc40902df1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/dfb56110a47ecb152d45a1b9300b4ee0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/6f9801887a54229912f20e0c437cbd52/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a202fbe0f13af21310a20183702f95fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c19da962678d7a184109f03977663653/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0e29a0ec777494e1b3ab63e3c1b720a0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b400509cc398588fceee71aa5c24aa98/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8d59a6cf5812695d8c6dd0bf6a3d5de/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3931aca1e4afdfcab1ef258035bb2258/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2b5bf6f92232b5816a4cfafb400c8fe/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:3:11-43
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:3:11-43
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:1-24:12
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:4:22-64
 application
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:5:5-22:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fb972c82e5ad7dda2c5667b51f0cecb\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fb972c82e5ad7dda2c5667b51f0cecb\AndroidManifest.xml:9:5-20
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/10b7d459591767f8db4f6b477bffc837/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/10b7d459591767f8db4f6b477bffc837/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:11:9-40
 activity#nttdata.co.jp.webmovie.MainActivity
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:12:9-21:20
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:12:9-21:20
 	android:name
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:13:13-16:29
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:13:13-16:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:14:17-68
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:14:17-68
 	android:name
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:15:17-76
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:15:17-76
 	android:name
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:15:27-74
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:15:27-74
 intent-filter#action:name:android.intent.action.MAIN+category:name:jp.co.sharp.android.rb.intent.category.LAUNCHER
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:17:13-20:29
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:17:13-20:29
 category#jp.co.sharp.android.rb.intent.category.LAUNCHER
-ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:19:17-91
+ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:19:17-91
 	android:name
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml:19:27-89
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml:19:27-89
 uses-sdk
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c04cfaf1fbc9680908ff5d98a1e71d0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\c04cfaf1fbc9680908ff5d98a1e71d0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fb972c82e5ad7dda2c5667b51f0cecb\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\0fb972c82e5ad7dda2c5667b51f0cecb\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\32fd63934cb54339d73c989b4abd0d56\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\32fd63934cb54339d73c989b4abd0d56\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\38e39d5a01b55597748c50fdbafc759a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\38e39d5a01b55597748c50fdbafc759a\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3e3194d7d8e7290cd402b8561a970a0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\3e3194d7d8e7290cd402b8561a970a0f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\fb0bfc95e2487230c95781c236260465\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\fb0bfc95e2487230c95781c236260465\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\86b827027557867ad2c8ba1d3c96e522\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\86b827027557867ad2c8ba1d3c96e522\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\b403f4db4d21e7ddc5c11fb3417b4f04\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\b403f4db4d21e7ddc5c11fb3417b4f04\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\44bba2375681ee4291ad5b26d2a46bb3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\44bba2375681ee4291ad5b26d2a46bb3\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e7a616b0b2595c35a271d37ddd853f2c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\e7a616b0b2595c35a271d37ddd853f2c\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\112add859134e07a8d341949208814ab\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\112add859134e07a8d341949208814ab\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5e057a689d63c6e92371b230c680188\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mashi\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e5e057a689d63c6e92371b230c680188\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/445381c2609f42d1b1f3440a84fe41e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/445381c2609f42d1b1f3440a84fe41e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/10b7d459591767f8db4f6b477bffc837/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/10b7d459591767f8db4f6b477bffc837/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/a2a6a7cd9f00b049ef1bffc40902df1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/a2a6a7cd9f00b049ef1bffc40902df1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/dfb56110a47ecb152d45a1b9300b4ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/dfb56110a47ecb152d45a1b9300b4ee0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/6f9801887a54229912f20e0c437cbd52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/6f9801887a54229912f20e0c437cbd52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a202fbe0f13af21310a20183702f95fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/a202fbe0f13af21310a20183702f95fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c19da962678d7a184109f03977663653/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/c19da962678d7a184109f03977663653/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0e29a0ec777494e1b3ab63e3c1b720a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0e29a0ec777494e1b3ab63e3c1b720a0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b400509cc398588fceee71aa5c24aa98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/b400509cc398588fceee71aa5c24aa98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8d59a6cf5812695d8c6dd0bf6a3d5de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c8d59a6cf5812695d8c6dd0bf6a3d5de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3931aca1e4afdfcab1ef258035bb2258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3931aca1e4afdfcab1ef258035bb2258/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2b5bf6f92232b5816a4cfafb400c8fe/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/mashihara/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c2b5bf6f92232b5816a4cfafb400c8fe/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mashihara/work/20_android/android_webview/app/src/main/AndroidManifest.xml

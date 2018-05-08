@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\mashi\Documents\77_study\robohon\app_android\RbWebviewSample\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/mashihara/work/20_android/android_webview/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/mashihara/work/20_android/android_webview/app/src/debug/jniLibs"/></dataSet></merger>

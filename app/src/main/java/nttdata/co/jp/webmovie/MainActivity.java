@@ -48,9 +48,9 @@ public class MainActivity extends Activity implements INativeController{
      * 動画再生開始.
      */
     private void startVideo() {
-        mWebView.loadUrl("file:///android_asset/html/index.html");
+// mWebView.loadUrl("file:///android_asset/html/video.html");
+        mWebView.loadUrl("https://s3-ap-northeast-1.amazonaws.com/ntteata.robohon.movie.hls/video/20000.m3u8");
     }
-
     @Override
     public void onBackPress() {
         // 戻るボタンがコールされたら画面終了

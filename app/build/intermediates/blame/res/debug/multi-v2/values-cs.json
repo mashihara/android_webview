@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\mashi\\Documents\\77_study\\robohon\\app_android\\RbWebviewSample\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-cs\\values-cs.xml",
+            "outputFile": "/Users/mashihara/work/20_android/android_webview/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mashi\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c04cfaf1fbc9680908ff5d98a1e71d0f\\res\\values-cs\\values-cs.xml",
+                    "source": "/Users/mashihara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/445381c2609f42d1b1f3440a84fe41e8/res/values-cs/values-cs.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mashi\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\b403f4db4d21e7ddc5c11fb3417b4f04\\res\\values-cs\\values-cs.xml",
+                    "source": "/Users/mashihara/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/0e29a0ec777494e1b3ab63e3c1b720a0/res/values-cs/values-cs.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

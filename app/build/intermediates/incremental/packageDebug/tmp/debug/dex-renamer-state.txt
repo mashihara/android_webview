@@ -1,4 +1,13 @@
-#Wed Apr 25 16:52:26 JST 2018
-base.0=C\:\\Users\\mashi\\Documents\\77_study\\robohon\\app_android\\RbWebviewSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+#Tue May 08 10:44:42 JST 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
 path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.3=/Users/mashihara/work/20_android/android_webview/app/build/intermediates/transforms/dexMerger/debug/12
+base.2=/Users/mashihara/work/20_android/android_webview/app/build/intermediates/transforms/dexMerger/debug/13
+base.1=/Users/mashihara/work/20_android/android_webview/app/build/intermediates/transforms/dexMerger/debug/11
+base.0=/Users/mashihara/work/20_android/android_webview/app/build/intermediates/transforms/dexMerger/debug/14
